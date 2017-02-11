@@ -69,7 +69,7 @@ test.describe('Pipedrive', function() {
             }));
     });
 
-    test.it('login with correct email and password', function() {
+    test.it('Login with correct email and password', function() {
         return driver.findElement(loginField).sendKeys('drivepipetest@gmail.com')
             .then(() => driver.findElement(passwordField).sendKeys('pipedrive123'))
             .then(() => driver.findElement(loginButton).click())
