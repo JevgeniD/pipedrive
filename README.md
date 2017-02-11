@@ -7,7 +7,7 @@ List of tests:
 - Log in with correct email and password
 
 Preconditions:
-- Make sure that Google Chrome browser exists on PC
+- Make sure that Google Chrome browser is installed on PC
 
 How to run tests:
 - Open Terminal
