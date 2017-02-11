@@ -13,5 +13,5 @@ How to run tests:
 - Open Terminal
 - Clone the repository (git clone https://github.com/JevgeniD/pipedrive.git)
 - Navigate to the folder with logintests.js (cd pipedrive)
-- Install npm (npm install)
+- Install Node Package Manager (npm install)
 - Run tests using Mocha test framework (mocha logintests)
