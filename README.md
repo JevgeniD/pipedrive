@@ -8,10 +8,11 @@ List of tests:
 
 Preconditions:
 - Make sure that Google Chrome browser is installed on PC
+- Node version >6.9.0
 
 How to run tests:
 - Open Terminal
 - Clone the repository (git clone https://github.com/JevgeniD/pipedrive.git)
 - Navigate to the folder with logintests.js (cd pipedrive)
-- Install Node Package Manager (npm install)
+- Install Node Packages (npm install)
 - Run tests using Mocha test framework (mocha logintests)
